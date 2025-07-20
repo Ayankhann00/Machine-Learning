@@ -1,4 +1,4 @@
-import numpy as np 
+import numpy as np #50 startups datasets
 import pandas as pd 
 import matplotlib.pyplot as plt 
 import seaborn as sns
